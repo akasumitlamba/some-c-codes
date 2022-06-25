@@ -10,7 +10,7 @@ int main()
         scanf("%f",&tmp[n]);
         ++n;
     }
-n=0; //reinitializing the value of n again to 0
+n=0; //reinitializing the value of n again to 0   .
 while(n<10)
     {
         printf("temperature of day %d = %.2f\n",n+1,tmp[n]);
