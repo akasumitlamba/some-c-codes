@@ -12,5 +12,6 @@ int main()
         sum+=arr[count];
         ++count;
     }
+    
     printf( "sum=%.2lf\nAverage=%.2f",sum,sum/10);
 }
