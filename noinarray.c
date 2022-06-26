@@ -6,7 +6,6 @@ int main()
     double arr[10], sum=0.0;
     int count=0;
     while (count<10)
-    
     {
         printf("Enter a number ");
         scanf( "%lf", & arr[count]);
