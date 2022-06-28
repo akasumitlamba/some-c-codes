@@ -1,4 +1,4 @@
-//wap that read the tempersture of a city for the last 10 days into an array.
+//wap that read the tempersture of a city for the last 10 days into array.
 #include <stdio.h>
 int main()
 {
