@@ -1,4 +1,4 @@
-/* WAP that reads numbers from the user into an array &
+/* WAP that reads numbers from the user into an array & 
 Print their sum and average */
 #include <stdio.h>
 int main()
