@@ -4,6 +4,7 @@ int main()
 
 
 
+
 {
     float tmp[10];
     int n=0;
