@@ -14,7 +14,7 @@ int main()
     int c[3][3],i,j;
     for(i=0;i<3;++i)    //outer loop for traversing rows
     {
-        for(j=0,j<3;++j)    //inner loop for traversing columns
+        for(j=0;j<3;++j)   //inner loop for traversing columns
         {
             c[i][j]=a[i][j]+b[i][j];
         }
