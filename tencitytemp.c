@@ -1,6 +1,7 @@
 //wap that read the tempersture of a city for the last 10 days into an array.
 #include <stdio.h>
 int main()
+
 {
     float tmp[10];
     int n=0;
