@@ -9,7 +9,6 @@ void transpose(int x[][3])
 	{
 		for (j=0;j<3;++j)  // inner loop for columns of x
 {
-
 		y[i][j]=x[j][i];    // assigning transpose values into y
 } // end of inner loop
 	} // end of outer loop
