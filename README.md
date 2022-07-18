@@ -1,3 +1,3 @@
 ﻿# some-c-codes
-some '
+some 
 codes you might want anywhere probably 
