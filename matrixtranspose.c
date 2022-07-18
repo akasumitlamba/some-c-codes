@@ -1,6 +1,5 @@
 // Write a program that declares and initializes a matrix. Pass this matrix to a function that stores the transpose of this matrix into another matrix. Display the resultant matrix
 #include <stdio.h>
-
 /* following is the definition of the function transpose()
 that receives input array passed from the calling function */
 void transpose(int x[][3])
@@ -10,7 +9,6 @@ void transpose(int x[][3])
 	{
 		for (j=0;j<3;++j)  // inner loop for columns of x
 {
-
 		y[i][j]=x[j][i];    // assigning transpose values into y
 } // end of inner loop
 	} // end of outer loop
@@ -22,8 +20,7 @@ void transpose(int x[][3])
 			printf("%d\t",y[i][j]);
 		}
 	printf("\n");  //newline feed as next row will be printed 
-	}
-	
+	}	
 }
 // definition of the function main()
 int main()
@@ -35,5 +32,4 @@ int main()
 	{5,6,7}
 		} ;
 transpose(arr);  // calling the function by passing 2-d array arr	
-	
 }  //end of main()
