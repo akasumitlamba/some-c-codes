@@ -1,3 +1,2 @@
 ﻿# some-c-codes
-some codes you might encounter a
-nywhere
+some codes you might encounter somewhere
