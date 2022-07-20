@@ -14,7 +14,7 @@ while(lft<=rt)
 	if (val<arr[md])          /* if value is smaller than the middle element, then obviously  the chance of finding it lies only on the right subarray.  Hence we will update lft */  
 	lft=md+1 ;	// updating  lft so that only right subarray is searched */ 	
 else  
-if (val>arr[md])    /* if value is higher  than the middle element, then obviously  the chance of finding it lies only on the left subarray.  Hence we will update rt */
+if (val>arr[md])    /*  if value is higher  than the middle element, then obviously  the chance of finding it lies only on the left subarray.  Hence we will update rt */
 rt=md-1 ;     // updating rt so that only left subarray is searched
 else
 {
