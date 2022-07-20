@@ -21,8 +21,8 @@ else
 printf("Found at location number %d\n",md+1);        // success message with location
 break ;	     // takes the control out of the loop block 
 		}  	
-	md=(lft + rt)/2 ;   //updating md before continuing with the search
+	md=(lft + rt)/2 ;   // updating md before continuing with the search
 } // end of loop
-if (lft>rt)      /* once the control  out of the loop, value of lft being bigger than that of rt, indicates no such value exists. */
+if (lft>rt)      /* once the control is  out of the loop, value of lft being bigger than that of rt, indicates no such value exists. */
 printf("No such value exists in the array") ;
  }
