@@ -8,7 +8,7 @@ int main()
 	int arr[MX]={100,98,95,90,80,76,75,70,65,62} ;  // declaration + initialization of array
 int val, lft=0,rt=MX-1,md=(lft+rt)/2 ;    /* declaration of array and variables. Here lft will be used for storing the left most subscript and rt for right most subscript. md variable stores middle subscript */
 	printf("Enter the value to be searched") ;
-	scanf("%d",&val) ;       //  reading the value to be searched into val
+	scanf("%d",&val) ;       //   reading the value to be searched into val
 while(lft<=rt)
 {
 	if (val<arr[md])          /* if value is smaller than the middle element, then obviously  the chance of finding it lies only on the right subarray.  Hence we will update lft */  
