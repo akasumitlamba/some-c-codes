@@ -3,7 +3,6 @@
 /* following is the definition of the function transpose()
 that receives input array passed from the calling function */
 void transpose(int x[][3])
-	
 {
 	int y[3][3],i,j;  // declaration of output array y and other variables
 	for (i=0;i<3;++i)   // outer loop for rows of x
