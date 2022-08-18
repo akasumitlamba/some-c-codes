@@ -22,3 +22,4 @@ char divby6(int val)
 	return 'n' ;       // if remainder is not 0, then return 'n' 
 	
  }
+ 
