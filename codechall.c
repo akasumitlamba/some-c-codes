@@ -16,7 +16,7 @@ int main()
 	  first element has already been extracted and stored into variable smallest */
 	    for (c=1;c<10;++c)
 	  {
-	    if (num[c]<smallest)  // if current element smaller tan smallest then store it into smallest
+	    if (num[c]<smallest)  //if current element smaller tan smallest then store it into smallest
 	 	 			   smallest=num[c] ;
 	  	  }
 	  	  printf("Smallest = %.2f", smallest) ;
