@@ -23,7 +23,7 @@ int main()
 	  	  getch()  ;
 /* now after finding the smallest element let's find second smallest  
 */	  
-	 if (smallest==num[0])  // if first element was smallest
+	 if (smallest==num[0])  //if first element was smallest
 	 sec_smallest=num[1];   // then start from second element
 else
 	  sec_smallest=num[0];  //storing the first element into sec_smallest
