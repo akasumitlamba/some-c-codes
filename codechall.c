@@ -4,7 +4,7 @@ int main()
 	float num[10]; //declaration of array
 	float smallest, sec_smallest ;
 	int c ;
-	for (c=0;c<10;++c)   // loop for reading values into the array
+	for (c=0;c<10;++c)   //loop for reading values into the array
 	{
 		printf("num[%d] = ",c);
 		scanf("%f",&num[c]) ;
