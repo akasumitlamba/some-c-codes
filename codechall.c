@@ -24,7 +24,7 @@ int main()
 /* now after finding the smallest element let's find second smallest  
 */	  
 	 if (smallest==num[0])  //if first element was smallest
-	 sec_smallest=num[1];   // then start from second element
+	 sec_smallest=num[1];   then start from second element
 else
 	  sec_smallest=num[0];  //storing the first element into sec_smallest
 	  for (c=1;c<10;++c)    // loop for finding second smallest
