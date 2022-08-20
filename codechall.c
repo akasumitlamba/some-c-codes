@@ -9,7 +9,7 @@ int main()
 		printf("num[%d] = ",c);
 		scanf("%f",&num[c]) ;
 	    }  
-	  smallest=num[0]; // storing the first element into variable smallest
+	  smallest=num[0]; //storing the first element into variable smallest
 	 
 	  /*following is the logic to find out the smallest value in the array.
 	  The counter variable for subscript c starts from 1 and not 0 as 
