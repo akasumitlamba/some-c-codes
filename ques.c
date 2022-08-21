@@ -12,6 +12,7 @@ int main()
 // }
 
 {
+    
     int x=900,*xp;
     xp=&x;
     printf("%d\n",*xp)
