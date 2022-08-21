@@ -11,7 +11,6 @@ int main()
 //     printf("search failed");
 // }
 
-
 {
     int x=900,*xp;
     xp=&x;
