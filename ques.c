@@ -10,6 +10,7 @@ int main()
 //     if(i==10)
 //     printf("search failed");
 // }
+
 {
     int x=900,*xp;
     xp=&x;
