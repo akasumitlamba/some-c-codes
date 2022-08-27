@@ -5,7 +5,6 @@
 // 1. You will neither pass any value nor return any value to the calling function.
 // 2. Do not declare functions. (no function prototypes ).
 # include <stdio.h>
-
 int tsc1, tsc2,tsc3 ;  /* Global declaration of 3 test scores 
 so that they can be accessed directly in any function */
 
