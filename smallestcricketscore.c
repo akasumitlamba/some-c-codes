@@ -1,7 +1,6 @@
 // Create 2 functions namely first() and second() apart from main(). Read 3 test scores of a cricketer in main() and call first() that calculates the average score. From first() call function second() that prints the smallest score.
 
 // Instructions:
-
 // 1. You will neither pass any value nor return any value to the calling function.
 // 2. Do not declare functions. (no function prototypes ).
 # include <stdio.h>
