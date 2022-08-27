@@ -27,7 +27,6 @@ printf("%d",tsc2);
 else                // tsc3 is the smallest as both the above conditions are false     
 printf("%d",tsc3);
 }
-
 // definition of the function main() 
 int main()
 {
