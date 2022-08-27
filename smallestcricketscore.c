@@ -7,7 +7,6 @@
 # include <stdio.h>
 int tsc1, tsc2,tsc3 ;  /* Global declaration of 3 test scores 
 so that they can be accessed directly in any function */
-
 //following is the definition of the function first() ;
 void first()      // Function data type is void() as no value to be returned
 {
