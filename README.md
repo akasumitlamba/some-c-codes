@@ -8,7 +8,6 @@ you
 
 might
 
-
 encounter
 
 somewhere
