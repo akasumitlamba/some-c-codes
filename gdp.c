@@ -3,6 +3,7 @@
 #include <stdlib.h>    // required for exit() function 
 int main()
 {
+
 	
 	
 	int n,i ;
