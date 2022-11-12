@@ -3,6 +3,7 @@
 #include <stdlib.h>    // required for exit() function 
 int main()
 {
+	
 	int n,i ;
 	long double *GDP ; /* declaration of array through pointer 
 	as array name is pointer to base address */
