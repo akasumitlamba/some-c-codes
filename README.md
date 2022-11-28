@@ -10,7 +10,6 @@ you
 
 might
 
-
 encounter
 
 somewhere
