@@ -14,4 +14,3 @@ encounter
 
 
 somewhere
-
