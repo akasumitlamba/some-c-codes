@@ -13,6 +13,5 @@ encounter
 
 
 
-
 somewhere
 
