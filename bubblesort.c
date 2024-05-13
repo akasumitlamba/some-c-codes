@@ -1,6 +1,5 @@
 // Write a program that searches for multiple occurrences of a value. It should print all the locations where that value is present. Print number of occurrences also. 
 // Note: Use Dev C++ to execute this code challenge.
-
 #include <stdio.h>
 #define MX 10     // defining a constant MX for array size
 int main()
